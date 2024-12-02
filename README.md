@@ -1,2 +1,17 @@
-# guidance-student-research
-Advising and Guidance for Student Research
+# Advising and Guidance for Student Research (JPN)
+
+主に学部ゼミ指導のための資料集
+
+## 作成資料
+
+- プレゼンテーションのコツ
+- 効果検証型の実証研究におけるリサーチデザイン
+- 【作成中】論文の書き方
+- 講義「応用計量経済学」の授業スライドへのリンク
+
+
+## 参考リンク
+
+- 実証ビジネス・エコノミクス
+- 見やすいプレゼン資料の作り方 - リニューアル増量版 https://www.slideshare.net/slideshow/ss-41321443/41321443
+
